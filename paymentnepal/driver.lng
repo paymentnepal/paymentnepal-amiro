@@ -1,0 +1,24 @@
+%%driver_author%en%%
+Forcode
+%%driver_author%ru%%
+Forcode
+
+%%driver_title%en%%
+Paymentnepal
+%%driver_title%ru%%
+Paymentnepal
+
+%%button_caption%en%%
+Payment via Paymentnepal
+%%button_caption%ru%%
+Payment via Paymentnepal
+
+%%paymentnepal_key%en%%
+Service key. Generated when creating payment button on Paymentnepal site.
+%%paymentnepal_key%ru%%
+Service key. Generated when creating payment button on Paymentnepal site.
+
+%%secret_key%en%%
+Secret key. Is set in your service settings at Paymentnepal system.
+%%secret_key%ru%%
+Secret key. Is set in your service settings at Paymentnepal system.
